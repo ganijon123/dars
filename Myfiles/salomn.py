@@ -1,0 +1,4 @@
+
+def main(son):
+    return[::]
+
